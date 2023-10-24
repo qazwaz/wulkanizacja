@@ -1,0 +1,26 @@
+.pawel {
+  position: absolute;
+  width: 500px;
+  height: auto;
+  top: 170px;
+  left: 220px;
+  z-index: 1000;
+}.nav {
+  display: flex;
+  align-items: center;
+  z-index: 1000;
+  position: absolute;
+  top: 0;
+  left: 200px;
+}
+.logo img {
+  width: 100px;
+  height: auto;
+}
+.nav-list {
+  display: flex;
+}
+.nav-list li {
+  color: white;
+  padding: 30px;
+}
